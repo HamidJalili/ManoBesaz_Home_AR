@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: da26c5a3c49e34e48b995681bb89952a
+timeCreated: 1468322439
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back
+    100004: baghche
+    100006: ball
+    100008: balon
+    100010: birde_box
+    100012: birde_pipe
+    100014: birde_plan
+    100016: box_flower
+    100018: Carrot
+    100020: chair
+    100022: chair2
+    100024: cloth_line
+    100026: doll
+    100028: doll_line
+    100030: doll_pin
+    100032: floor
+    100034: flower_A
+    100036: flower_B
+    100038: flower_C
+    100040: flower_D
+    100042: flower_E
+    100044: flower_F
+    100046: flower_G
+    100048: grass
+    100050: grass_post
+    100052: group1
+    100054: havij
+    100056: havij1
+    100058: havij2
+    100060: havij3
+    100062: havij4
+    100064: havij5
+    100066: havij6
+    100068: havij7
+    100070: havij_body
+    100072: havij_body 1
+    100074: havij_body 2
+    100076: havij_body 3
+    100078: havij_body 4
+    100080: havij_body 5
+    100082: havij_body 6
+    100084: havij_body 7
+    100086: havij_erth
+    100088: havij_erth 1
+    100090: havij_erth 2
+    100092: havij_erth 3
+    100094: havij_erth 4
+    100096: havij_erth 5
+    100098: havij_erth 6
+    100100: havij_erth 7
+    100102: havij_plan
+    100104: havij_plan 1
+    100106: havij_plan 2
+    100108: havij_plan 3
+    100110: havij_plan 4
+    100112: havij_plan 5
+    100114: havij_plan 6
+    100116: havij_plan 7
+    100118: kolbe1
+    100120: left
+    100122: light_vorodi
+    100124: light_vorodi1
+    100126: mizosandali
+    100128: nurbsToPoly2
+    100130: pCube17
+    100132: pCube2
+    100134: pCube27
+    100136: pCube3
+    100138: pCube32
+    100140: pCube33
+    100142: pCube34
+    100144: pCube35
+    100146: pCube36
+    100148: pCube37
+    100150: pCylinder15
+    100152: pCylinder20
+    100154: pCylinder21
+    100156: pCylinder22
+    100158: pCylinder23
+    100160: pCylinder24
+    100162: pCylinder25
+    100164: pCylinder5
+    100166: pCylinder8
+    100168: pCylinder9
+    100170: pipe_valve
+    100172: plan_tree214
+    100174: polySurface1
+    100176: polySurface100
+    100178: polySurface101
+    100180: polySurface102
+    100182: polySurface103
+    100184: polySurface104
+    100186: polySurface14
+    100188: polySurface15
+    100190: polySurface18
+    100192: polySurface19
+    100194: polySurface2
+    100196: polySurface20
+    100198: polySurface21
+    100200: polySurface25
+    100202: polySurface3
+    100204: polySurface3 1
+    100206: polySurface32
+    100208: polySurface33
+    100210: polySurface35
+    100212: polySurface36
+    100214: polySurface37
+    100216: polySurface38
+    100218: polySurface39
+    100220: polySurface4
+    100222: polySurface40
+    100224: polySurface41
+    100226: polySurface42
+    100228: polySurface43
+    100230: polySurface44
+    100232: polySurface47
+    100234: polySurface48
+    100236: polySurface5
+    100238: polySurface51
+    100240: polySurface52
+    100242: polySurface53
+    100244: polySurface54
+    100246: polySurface55
+    100248: polySurface56
+    100250: polySurface57
+    100252: polySurface58
+    100254: polySurface59
+    100256: polySurface6
+    100258: polySurface60
+    100260: polySurface61
+    100262: polySurface7
+    100264: polySurface76
+    100266: polySurface77
+    100268: polySurface78
+    100270: polySurface79
+    100272: polySurface8
+    100274: polySurface80
+    100276: polySurface81
+    100278: polySurface82
+    100280: polySurface83
+    100282: polySurface84
+    100284: polySurface85
+    100286: polySurface86
+    100288: polySurface87
+    100290: polySurface88
+    100292: polySurface89
+    100294: polySurface90
+    100296: polySurface91
+    100298: polySurface92
+    100300: polySurface93
+    100302: polySurface94
+    100304: polySurface95
+    100306: polySurface96
+    100308: polySurface97
+    100310: polySurface98
+    100312: polySurface99
+    100314: postBox
+    100316: pSphere3
+    100318: roop_balon
+    100320: Root
+    100322: tabel
+    100324: tabel57335
+    100326: tube
+    100328: vace_flower
+    100330: valve
+    100332: vorodi_pCylinder5
+    100334: water_tube
+    400000: //RootNode
+    400002: back
+    400004: baghche
+    400006: ball
+    400008: balon
+    400010: birde_box
+    400012: birde_pipe
+    400014: birde_plan
+    400016: box_flower
+    400018: Carrot
+    400020: chair
+    400022: chair2
+    400024: cloth_line
+    400026: doll
+    400028: doll_line
+    400030: doll_pin
+    400032: floor
+    400034: flower_A
+    400036: flower_B
+    400038: flower_C
+    400040: flower_D
+    400042: flower_E
+    400044: flower_F
+    400046: flower_G
+    400048: grass
+    400050: grass_post
+    400052: group1
+    400054: havij
+    400056: havij1
+    400058: havij2
+    400060: havij3
+    400062: havij4
+    400064: havij5
+    400066: havij6
+    400068: havij7
+    400070: havij_body
+    400072: havij_body 1
+    400074: havij_body 2
+    400076: havij_body 3
+    400078: havij_body 4
+    400080: havij_body 5
+    400082: havij_body 6
+    400084: havij_body 7
+    400086: havij_erth
+    400088: havij_erth 1
+    400090: havij_erth 2
+    400092: havij_erth 3
+    400094: havij_erth 4
+    400096: havij_erth 5
+    400098: havij_erth 6
+    400100: havij_erth 7
+    400102: havij_plan
+    400104: havij_plan 1
+    400106: havij_plan 2
+    400108: havij_plan 3
+    400110: havij_plan 4
+    400112: havij_plan 5
+    400114: havij_plan 6
+    400116: havij_plan 7
+    400118: kolbe1
+    400120: left
+    400122: light_vorodi
+    400124: light_vorodi1
+    400126: mizosandali
+    400128: nurbsToPoly2
+    400130: pCube17
+    400132: pCube2
+    400134: pCube27
+    400136: pCube3
+    400138: pCube32
+    400140: pCube33
+    400142: pCube34
+    400144: pCube35
+    400146: pCube36
+    400148: pCube37
+    400150: pCylinder15
+    400152: pCylinder20
+    400154: pCylinder21
+    400156: pCylinder22
+    400158: pCylinder23
+    400160: pCylinder24
+    400162: pCylinder25
+    400164: pCylinder5
+    400166: pCylinder8
+    400168: pCylinder9
+    400170: pipe_valve
+    400172: plan_tree214
+    400174: polySurface1
+    400176: polySurface100
+    400178: polySurface101
+    400180: polySurface102
+    400182: polySurface103
+    400184: polySurface104
+    400186: polySurface14
+    400188: polySurface15
+    400190: polySurface18
+    400192: polySurface19
+    400194: polySurface2
+    400196: polySurface20
+    400198: polySurface21
+    400200: polySurface25
+    400202: polySurface3
+    400204: polySurface3 1
+    400206: polySurface32
+    400208: polySurface33
+    400210: polySurface35
+    400212: polySurface36
+    400214: polySurface37
+    400216: polySurface38
+    400218: polySurface39
+    400220: polySurface4
+    400222: polySurface40
+    400224: polySurface41
+    400226: polySurface42
+    400228: polySurface43
+    400230: polySurface44
+    400232: polySurface47
+    400234: polySurface48
+    400236: polySurface5
+    400238: polySurface51
+    400240: polySurface52
+    400242: polySurface53
+    400244: polySurface54
+    400246: polySurface55
+    400248: polySurface56
+    400250: polySurface57
+    400252: polySurface58
+    400254: polySurface59
+    400256: polySurface6
+    400258: polySurface60
+    400260: polySurface61
+    400262: polySurface7
+    400264: polySurface76
+    400266: polySurface77
+    400268: polySurface78
+    400270: polySurface79
+    400272: polySurface8
+    400274: polySurface80
+    400276: polySurface81
+    400278: polySurface82
+    400280: polySurface83
+    400282: polySurface84
+    400284: polySurface85
+    400286: polySurface86
+    400288: polySurface87
+    400290: polySurface88
+    400292: polySurface89
+    400294: polySurface90
+    400296: polySurface91
+    400298: polySurface92
+    400300: polySurface93
+    400302: polySurface94
+    400304: polySurface95
+    400306: polySurface96
+    400308: polySurface97
+    400310: polySurface98
+    400312: polySurface99
+    400314: postBox
+    400316: pSphere3
+    400318: roop_balon
+    400320: Root
+    400322: tabel
+    400324: tabel57335
+    400326: tube
+    400328: vace_flower
+    400330: valve
+    400332: vorodi_pCylinder5
+    400334: water_tube
+    2300000: ball
+    2300002: balon
+    2300004: birde_box
+    2300006: birde_pipe
+    2300008: birde_plan
+    2300010: box_flower
+    2300012: chair
+    2300014: chair2
+    2300016: cloth_line
+    2300018: doll
+    2300020: doll_line
+    2300022: doll_pin
+    2300024: floor
+    2300026: flower_A
+    2300028: flower_B
+    2300030: flower_C
+    2300032: flower_D
+    2300034: flower_E
+    2300036: flower_F
+    2300038: flower_G
+    2300040: grass
+    2300042: grass_post
+    2300044: havij_body
+    2300046: havij_body 1
+    2300048: havij_body 2
+    2300050: havij_body 3
+    2300052: havij_body 4
+    2300054: havij_body 5
+    2300056: havij_body 6
+    2300058: havij_body 7
+    2300060: havij_erth
+    2300062: havij_erth 1
+    2300064: havij_erth 2
+    2300066: havij_erth 3
+    2300068: havij_erth 4
+    2300070: havij_erth 5
+    2300072: havij_erth 6
+    2300074: havij_erth 7
+    2300076: havij_plan
+    2300078: havij_plan 1
+    2300080: havij_plan 2
+    2300082: havij_plan 3
+    2300084: havij_plan 4
+    2300086: havij_plan 5
+    2300088: havij_plan 6
+    2300090: havij_plan 7
+    2300092: light_vorodi
+    2300094: light_vorodi1
+    2300096: nurbsToPoly2
+    2300098: pCube17
+    2300100: pCube2
+    2300102: pCube27
+    2300104: pCube3
+    2300106: pCube32
+    2300108: pCube33
+    2300110: pCube34
+    2300112: pCube35
+    2300114: pCube36
+    2300116: pCube37
+    2300118: pCylinder15
+    2300120: pCylinder20
+    2300122: pCylinder21
+    2300124: pCylinder22
+    2300126: pCylinder23
+    2300128: pCylinder24
+    2300130: pCylinder25
+    2300132: pCylinder5
+    2300134: pCylinder8
+    2300136: pCylinder9
+    2300138: pipe_valve
+    2300140: plan_tree214
+    2300142: polySurface1
+    2300144: polySurface100
+    2300146: polySurface101
+    2300148: polySurface102
+    2300150: polySurface103
+    2300152: polySurface104
+    2300154: polySurface14
+    2300156: polySurface15
+    2300158: polySurface18
+    2300160: polySurface19
+    2300162: polySurface2
+    2300164: polySurface20
+    2300166: polySurface21
+    2300168: polySurface25
+    2300170: polySurface3
+    2300172: polySurface3 1
+    2300174: polySurface32
+    2300176: polySurface33
+    2300178: polySurface35
+    2300180: polySurface36
+    2300182: polySurface37
+    2300184: polySurface38
+    2300186: polySurface39
+    2300188: polySurface4
+    2300190: polySurface40
+    2300192: polySurface41
+    2300194: polySurface42
+    2300196: polySurface43
+    2300198: polySurface44
+    2300200: polySurface47
+    2300202: polySurface48
+    2300204: polySurface5
+    2300206: polySurface51
+    2300208: polySurface52
+    2300210: polySurface53
+    2300212: polySurface54
+    2300214: polySurface55
+    2300216: polySurface56
+    2300218: polySurface57
+    2300220: polySurface58
+    2300222: polySurface59
+    2300224: polySurface6
+    2300226: polySurface60
+    2300228: polySurface61
+    2300230: polySurface7
+    2300232: polySurface76
+    2300234: polySurface77
+    2300236: polySurface78
+    2300238: polySurface79
+    2300240: polySurface8
+    2300242: polySurface80
+    2300244: polySurface81
+    2300246: polySurface82
+    2300248: polySurface83
+    2300250: polySurface84
+    2300252: polySurface85
+    2300254: polySurface86
+    2300256: polySurface87
+    2300258: polySurface88
+    2300260: polySurface89
+    2300262: polySurface90
+    2300264: polySurface91
+    2300266: polySurface92
+    2300268: polySurface93
+    2300270: polySurface94
+    2300272: polySurface95
+    2300274: polySurface96
+    2300276: polySurface97
+    2300278: polySurface98
+    2300280: polySurface99
+    2300282: postBox
+    2300284: pSphere3
+    2300286: roop_balon
+    2300288: tabel
+    2300290: tabel57335
+    2300292: tube
+    2300294: vace_flower
+    2300296: valve
+    2300298: vorodi_pCylinder5
+    2300300: water_tube
+    3300000: ball
+    3300002: balon
+    3300004: birde_box
+    3300006: birde_pipe
+    3300008: birde_plan
+    3300010: box_flower
+    3300012: chair
+    3300014: chair2
+    3300016: cloth_line
+    3300018: doll
+    3300020: doll_line
+    3300022: doll_pin
+    3300024: floor
+    3300026: flower_A
+    3300028: flower_B
+    3300030: flower_C
+    3300032: flower_D
+    3300034: flower_E
+    3300036: flower_F
+    3300038: flower_G
+    3300040: grass
+    3300042: grass_post
+    3300044: havij_body
+    3300046: havij_body 1
+    3300048: havij_body 2
+    3300050: havij_body 3
+    3300052: havij_body 4
+    3300054: havij_body 5
+    3300056: havij_body 6
+    3300058: havij_body 7
+    3300060: havij_erth
+    3300062: havij_erth 1
+    3300064: havij_erth 2
+    3300066: havij_erth 3
+    3300068: havij_erth 4
+    3300070: havij_erth 5
+    3300072: havij_erth 6
+    3300074: havij_erth 7
+    3300076: havij_plan
+    3300078: havij_plan 1
+    3300080: havij_plan 2
+    3300082: havij_plan 3
+    3300084: havij_plan 4
+    3300086: havij_plan 5
+    3300088: havij_plan 6
+    3300090: havij_plan 7
+    3300092: light_vorodi
+    3300094: light_vorodi1
+    3300096: nurbsToPoly2
+    3300098: pCube17
+    3300100: pCube2
+    3300102: pCube27
+    3300104: pCube3
+    3300106: pCube32
+    3300108: pCube33
+    3300110: pCube34
+    3300112: pCube35
+    3300114: pCube36
+    3300116: pCube37
+    3300118: pCylinder15
+    3300120: pCylinder20
+    3300122: pCylinder21
+    3300124: pCylinder22
+    3300126: pCylinder23
+    3300128: pCylinder24
+    3300130: pCylinder25
+    3300132: pCylinder5
+    3300134: pCylinder8
+    3300136: pCylinder9
+    3300138: pipe_valve
+    3300140: plan_tree214
+    3300142: polySurface1
+    3300144: polySurface100
+    3300146: polySurface101
+    3300148: polySurface102
+    3300150: polySurface103
+    3300152: polySurface104
+    3300154: polySurface14
+    3300156: polySurface15
+    3300158: polySurface18
+    3300160: polySurface19
+    3300162: polySurface2
+    3300164: polySurface20
+    3300166: polySurface21
+    3300168: polySurface25
+    3300170: polySurface3
+    3300172: polySurface3 1
+    3300174: polySurface32
+    3300176: polySurface33
+    3300178: polySurface35
+    3300180: polySurface36
+    3300182: polySurface37
+    3300184: polySurface38
+    3300186: polySurface39
+    3300188: polySurface4
+    3300190: polySurface40
+    3300192: polySurface41
+    3300194: polySurface42
+    3300196: polySurface43
+    3300198: polySurface44
+    3300200: polySurface47
+    3300202: polySurface48
+    3300204: polySurface5
+    3300206: polySurface51
+    3300208: polySurface52
+    3300210: polySurface53
+    3300212: polySurface54
+    3300214: polySurface55
+    3300216: polySurface56
+    3300218: polySurface57
+    3300220: polySurface58
+    3300222: polySurface59
+    3300224: polySurface6
+    3300226: polySurface60
+    3300228: polySurface61
+    3300230: polySurface7
+    3300232: polySurface76
+    3300234: polySurface77
+    3300236: polySurface78
+    3300238: polySurface79
+    3300240: polySurface8
+    3300242: polySurface80
+    3300244: polySurface81
+    3300246: polySurface82
+    3300248: polySurface83
+    3300250: polySurface84
+    3300252: polySurface85
+    3300254: polySurface86
+    3300256: polySurface87
+    3300258: polySurface88
+    3300260: polySurface89
+    3300262: polySurface90
+    3300264: polySurface91
+    3300266: polySurface92
+    3300268: polySurface93
+    3300270: polySurface94
+    3300272: polySurface95
+    3300274: polySurface96
+    3300276: polySurface97
+    3300278: polySurface98
+    3300280: polySurface99
+    3300282: postBox
+    3300284: pSphere3
+    3300286: roop_balon
+    3300288: tabel
+    3300290: tabel57335
+    3300292: tube
+    3300294: vace_flower
+    3300296: valve
+    3300298: vorodi_pCylinder5
+    3300300: water_tube
+    4300000: polySurface94
+    4300002: polySurface95
+    4300004: polySurface96
+    4300006: polySurface97
+    4300008: polySurface98
+    4300010: polySurface103
+    4300012: polySurface104
+    4300014: polySurface1
+    4300016: polySurface2
+    4300018: polySurface3
+    4300020: polySurface4
+    4300022: polySurface5
+    4300024: polySurface6
+    4300026: polySurface7
+    4300028: polySurface8
+    4300030: pCube2
+    4300032: pCube3
+    4300034: pSphere3
+    4300036: polySurface25
+    4300038: polySurface84
+    4300040: polySurface85
+    4300042: polySurface86
+    4300044: polySurface87
+    4300046: polySurface88
+    4300048: polySurface89
+    4300050: polySurface90
+    4300052: polySurface91
+    4300054: polySurface92
+    4300056: polySurface93
+    4300058: pCube33
+    4300060: polySurface99
+    4300062: polySurface100
+    4300064: polySurface101
+    4300066: polySurface102
+    4300068: pCylinder5
+    4300070: pCylinder8
+    4300072: pCylinder9
+    4300074: nurbsToPoly2
+    4300076: pCylinder15
+    4300078: polySurface20
+    4300080: polySurface21
+    4300082: pCube17
+    4300084: pCube27
+    4300086: pCube32
+    4300088: pCylinder20
+    4300090: pCube34
+    4300092: pCube35
+    4300094: pCylinder21
+    4300096: pCube36
+    4300098: pCylinder22
+    4300100: pCylinder23
+    4300102: pCube37
+    4300104: pCylinder24
+    4300106: pCylinder25
+    4300108: polySurface3
+    4300110: polySurface14
+    4300112: polySurface15
+    4300114: polySurface18
+    4300116: polySurface19
+    4300118: polySurface32
+    4300120: polySurface33
+    4300122: polySurface35
+    4300124: polySurface36
+    4300126: polySurface37
+    4300128: polySurface38
+    4300130: polySurface39
+    4300132: polySurface40
+    4300134: polySurface41
+    4300136: polySurface42
+    4300138: polySurface43
+    4300140: polySurface44
+    4300142: polySurface47
+    4300144: polySurface48
+    4300146: polySurface54
+    4300148: polySurface55
+    4300150: polySurface56
+    4300152: polySurface57
+    4300154: polySurface60
+    4300156: polySurface59
+    4300158: polySurface58
+    4300160: polySurface61
+    4300162: polySurface52
+    4300164: polySurface51
+    4300166: polySurface53
+    4300168: polySurface76
+    4300170: polySurface77
+    4300172: polySurface78
+    4300174: polySurface79
+    4300176: polySurface80
+    4300178: polySurface81
+    4300180: polySurface82
+    4300182: floor
+    4300184: postBox
+    4300186: grass_post
+    4300188: vorodi_pCylinder5
+    4300190: chair
+    4300192: tabel
+    4300194: grass
+    4300196: valve
+    4300198: cloth_line
+    4300200: tube
+    4300202: water_tube
+    4300204: pipe_valve
+    4300206: ball
+    4300208: doll
+    4300210: doll_line
+    4300212: doll_pin
+    4300214: birde_box
+    4300216: birde_plan
+    4300218: birde_pipe
+    4300220: light_vorodi
+    4300222: box_flower
+    4300224: vace_flower
+    4300226: flower_A
+    4300228: flower_B
+    4300230: flower_C
+    4300232: flower_D
+    4300234: flower_E
+    4300236: flower_F
+    4300238: flower_G
+    4300240: tabel57335
+    4300242: polySurface83
+    4300244: chair2
+    4300246: light_vorodi1
+    4300248: roop_balon
+    4300250: balon
+    4300252: havij_body
+    4300254: havij_plan
+    4300256: havij_erth
+    4300258: havij_body
+    4300260: havij_plan
+    4300262: havij_erth
+    4300264: havij_body
+    4300266: havij_plan
+    4300268: havij_erth
+    4300270: havij_body
+    4300272: havij_plan
+    4300274: havij_erth
+    4300276: havij_body
+    4300278: havij_plan
+    4300280: havij_erth
+    4300282: havij_body
+    4300284: havij_plan
+    4300286: havij_erth
+    4300288: havij_body
+    4300290: havij_plan
+    4300292: havij_erth
+    4300294: havij_body
+    4300296: havij_plan
+    4300298: havij_erth
+    4300300: plan_tree214
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

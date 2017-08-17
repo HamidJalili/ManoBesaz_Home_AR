@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Home.Front" size="0.899900 0.680128"/>
+        <ImageTarget name="Home.Right" size="0.870000 0.680195"/>
+        <ImageTarget name="Home.Left" size="0.870000 0.680195"/>
+        <ImageTarget name="Home.Back" size="0.899900 0.680128"/>
+        <MultiTarget name="Home">
+            <Part name="Home.Left" translation="-0.4499500095844269 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Home.Right" translation="0.4499500095844269 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Home.Front" translation="0 0 0.4350000023841858" rotation="AD: 1 0 0 0"/>
+            <Part name="Home.Back" translation="0 0 -0.4350000023841858" rotation="AD: 0 1 0 180"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
