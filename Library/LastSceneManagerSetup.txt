@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Maps/FAn_Home_Level.unity
+  isLoaded: 1
+  isActive: 1
